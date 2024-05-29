@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first post",
+      "datetime": "May 27, 2024 11:16:40 AM",
+      "body": "react js i svery powerful tool"
+    },
+    {
+      "id": "2",
+      "title": "My second post",
+      "datetime": "May 27, 2024 11:17:12 AM",
+      "body": "python "
+    },
+    {
+      "id": "3",
+      "title": "React Js",
+      "datetime": "May 29, 2024 12:39:42 PM",
+      "body": "Completed React js course"
+    },
+    {
+      "id": "31",
+      "title": "Success",
+      "datetime": "May 29, 2024 12:40:51 PM",
+      "body": "Happy to complete react js course"
+    }
+  ]
+}
